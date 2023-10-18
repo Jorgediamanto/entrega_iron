@@ -1,0 +1,43 @@
+div{
+    
+    width: 200px;
+
+    float: left;
+}
+
+#div1, #div2{
+    height: 40px;
+    border: salmon 2px solid;
+    background-color: yellow;
+}
+
+#div2{
+    width: 700px;
+}
+
+#div3, #div4{
+    height: 150px;
+    border: rgb(146, 45, 146) 2px solid;
+    background-color: burlywood;
+}
+#div5{
+    height: 250px;
+    width: 700px;
+    border: rgb(168, 41, 12) 2px solid;
+    background-color: rgb(150, 228, 149);
+}
+
+#div6{
+    height: 40px;
+    width: 700px;
+    border: rgb(168, 41, 12) 2px solid;
+    background-color: rgb(149, 183, 228);
+}
+
+.margen-derecha{
+    margin-right: 20px;
+}
+
+.margen-inferior{
+    margin-bottom: 10px;
+}
