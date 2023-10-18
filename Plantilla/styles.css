@@ -37,8 +37,4 @@ header {
     margin: 10px 0;
 }
 
-/* Estilos para las imágenes de los jugadores */
-.player img {
-    max-width: 100%;
-    border-radius: 50%;
-}
+
